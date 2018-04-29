@@ -1,4 +1,4 @@
-# Sci Chicken
+﻿# Sci Chicken
 
 A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.33
 
@@ -13,11 +13,11 @@ Server running command：
 网页雷达一键安装命令
 
 yum install git;
-git clone https://github.com/cheat8/Pubg_WebRadar.git;
+git clone https://github.com/kissmeoppop/gaosilandong1.git;
 
 雷达网页打不开，不跟踪，运行此命令
 
-cd /root/Pubg_WebRadar/update.sh;
+cd /root/gaosilandong1/update.sh;
 ```
 
 ## Translation
@@ -38,9 +38,9 @@ Local computer using SSTAP connection
 Watching address  serverIP:20086/
 
 
-Restart PUBG-Radar command
+Restart gaosilandong1 command
 
 ```bash
 
-cd /root/Pubg_WebRadar;
+cd /root/gaosilandong1;
 . restart.sh
